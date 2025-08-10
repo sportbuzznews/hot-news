@@ -1,1 +1,1 @@
-# hot-news
+# news-update
